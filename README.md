@@ -1,16 +1,16 @@
-## Hi there 👋
+# Calculadora de Lotes Deriv
 
-<!--
-**Guardianfx0/Guardianfx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Calculadora automática para determinar o tamanho de lote ideal nos índices sintéticos da Deriv.
 
-Here are some ideas to get you started:
+## Como usar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Insira seu saldo em conta
+2. Defina a porcentagem de risco
+3. Insira o número de pontos de Stop Loss
+4. Defina o valor por ponto do ativo
+5. Clique em "Calcular" para obter o lote ideal
+
+---
+
+Desenvolvido por **Guardianfx0**
+Licenciado sob a GPL v3.
